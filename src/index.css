@@ -1,0 +1,53 @@
+nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  display: flex;
+  background: rgba(24, 1, 104, 0.769);
+  padding: 30px;
+  gap: 30px;
+}
+
+nav a {
+  color: white;
+  font-style: italic;
+  font-size: 19px;
+}
+
+.container {
+  position: relative;
+  top: 100px;
+}
+
+.active {
+  color: red;
+}
+
+td {
+  color: rgba(24, 1, 104, 0.769);
+  font-size: larger;
+  font-style: oblique;
+}
+
+tr {
+
+  color: rgb(103, 15, 212);
+  font-style: italic;
+  font-size: larger;
+
+}
+
+h1 {
+  font-style: italic;
+  color: rgb(62, 59, 135);
+}
+
+
+
+h3 {
+  width: 550px;
+  font-style: italic;
+  color: black;
+  height: 110px;
+  padding-left: 800px;
+}

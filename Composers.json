@@ -1,0 +1,36 @@
+{
+  "composers": [
+    {
+      "id": "ade5",
+      "name": "Вольфганг Амадей",
+      "surname": "Моцарт",
+      "born": "1756",
+      "died": "1791",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/800px-Wolfgang-amadeus-mozart_1.jpg"
+    },
+    {
+      "id": "6bc5",
+      "name": "Карл Томас",
+      "surname": "Моцарт",
+      "born": "21 сентября 1784 ",
+      "died": "31 октября 1858",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Karl_Thomas_Mozart.jpg/250px-Karl_Thomas_Mozart.jpg"
+    },
+    {
+      "id": "ff92",
+      "name": "Johann Sebastian",
+      "surname": "Bach",
+      "born": "1685",
+      "died": "1750",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg"
+    },
+    {
+      "id": "e135",
+      "name": "Հայդն",
+      "surname": "Յոզեֆ",
+      "born": "1732",
+      "died": "1809",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Joseph_Haydn%2C_m%C3%A5lning_av_Thomas_Hardy_fr%C3%A5n_1792.jpg"
+    }
+  ]
+}
